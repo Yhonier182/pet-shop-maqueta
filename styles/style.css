@@ -90,3 +90,16 @@ div ~ p{
 }
 /*Agrega los selectores aquí */
 
+
+
+ /* TIPOS DE SELECTORES COMBINADOS*/
+.container > p{
+  color: blue;
+}
+div + p{
+  color: blueviolet;
+}  
+
+div ~ p{
+  color: coral;
+}
