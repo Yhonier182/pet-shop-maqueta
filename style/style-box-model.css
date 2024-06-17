@@ -1,0 +1,26 @@
+
+h1{
+    border-bottom: 2px solid #00F;
+}
+
+h2 {
+    border: 2px solid #AAA; 
+}
+
+ul{
+    border-top: 4px dotted #F00; /* Borde superior */
+    border-bottom: 4px dotted #F00; /* Borde inferior */
+    padding: 10px; /*añade mayor espacio interior */
+
+    /*dotted; el borde del elemento se renderizará como una serie de puntos alineados.*/
+}
+
+.ul1{
+    border: 2px dashed #0F0; /* Borde completo de 2px, con guiones y verde */
+ /*dashed: Especifica el estilo del borde. En este caso, el borde será de tipo "discontinuo" o "guiones". */
+}
+
+
+
+
+
